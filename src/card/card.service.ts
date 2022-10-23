@@ -12,8 +12,8 @@ export class CardService {
                 ProductId:   product.Productid,
              
                 }
-                }
+                })
             } 
-        )
+        
     }
-}
+
